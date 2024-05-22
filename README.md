@@ -71,4 +71,11 @@ https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_P
 # Cybersecurity RoadMap Suggestion
 https://github.com/brcyrr/CyberSecurityRoadmapSuggestions
 
+# Fuzzing word lists
+https://github.com/netsecurity-as/subfuz/blob/master/subdomain_megalist.txt
+
+https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS
+
+
+
 ## NB The repo keeps getting updated 
