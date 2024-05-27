@@ -6,6 +6,8 @@
 
 https://github.com/skahwah/SQLRecon
 
+https://github.com/1N3/Sn1per
+
 # Exploitation
 
 https://github.com/XiaoliChan/wmiexec-Pro
