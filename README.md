@@ -16,6 +16,7 @@ https://github.com/outflanknl/RedELK (Red Team SIEM)
 
 https://github.com/nicocha30/ligolo-ng (Tunnelling)
 
+https://github.com/LasCC/HackTools
 
 # Resources
 
