@@ -20,6 +20,9 @@ https://github.com/nicocha30/ligolo-ng (Tunnelling)
 
 https://github.com/LasCC/HackTools
 
+# Bug Bounty
+https://github.com/search?q=nuclei&type=repositories
+
 # Resources
 
 https://evotec.pl/the-only-powershell-command-you-will-ever-need-to-find-out-who-did-what-in-active-directory/
