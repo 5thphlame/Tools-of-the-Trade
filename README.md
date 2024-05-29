@@ -23,6 +23,7 @@ https://github.com/LasCC/HackTools
 # Bug Bounty
 https://github.com/search?q=nuclei&type=repositories
 
+https://github.com/projectdiscovery/subfinder
 # Resources
 
 https://evotec.pl/the-only-powershell-command-you-will-ever-need-to-find-out-who-did-what-in-active-directory/
