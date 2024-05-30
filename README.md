@@ -8,6 +8,8 @@ https://github.com/skahwah/SQLRecon
 
 https://github.com/1N3/Sn1per
 
+https://github.com/xaitax/SploitScan
+
 # Exploitation
 
 https://github.com/XiaoliChan/wmiexec-Pro
