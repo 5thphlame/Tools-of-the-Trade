@@ -26,6 +26,9 @@ https://github.com/LasCC/HackTools
 https://github.com/search?q=nuclei&type=repositories
 
 https://github.com/projectdiscovery/subfinder
+
+https://github.com/netsecurity-as/subfuz
+
 # Resources
 
 https://evotec.pl/the-only-powershell-command-you-will-ever-need-to-find-out-who-did-what-in-active-directory/
