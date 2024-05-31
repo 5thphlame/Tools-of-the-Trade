@@ -77,6 +77,8 @@ https://hausec.com/pentesting-cheatsheet/#_Toc475368977
 
 https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html#tips-to-participate-in-the-proctored-oscp-exam
 
+https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet/blob/master/README.md
+
 # Cybersecurity RoadMap Suggestion
 https://github.com/brcyrr/CyberSecurityRoadmapSuggestions
 
