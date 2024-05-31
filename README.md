@@ -35,6 +35,8 @@ https://evotec.pl/the-only-powershell-command-you-will-ever-need-to-find-out-who
 
 https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php
 
+https://github.com/reswob10/HomeLabResources
+
 # Cheatsheets
 https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
 
