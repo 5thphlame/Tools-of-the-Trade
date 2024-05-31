@@ -30,6 +30,8 @@ https://github.com/projectdiscovery/subfinder
 
 https://evotec.pl/the-only-powershell-command-you-will-ever-need-to-find-out-who-did-what-in-active-directory/
 
+https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php
+
 # Cheatsheets
 https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
 
