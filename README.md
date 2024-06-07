@@ -24,6 +24,10 @@ https://github.com/nicocha30/ligolo-ng (Tunnelling)
 
 https://github.com/LasCC/HackTools
 
+# Active Directory
+
+https://github.com/Pennyw0rth/NetExec
+
 # Bug Bounty
 https://github.com/search?q=nuclei&type=repositories
 
