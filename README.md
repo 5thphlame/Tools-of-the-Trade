@@ -45,6 +45,8 @@ https://github.com/reswob10/HomeLabResources
 
 https://github.com/Az0x7/vulnerability-Checklist
 
+https://github.com/0xrajneesh/Ethical-Hacking-Projects-for-beginners
+
 # Cheatsheets
 https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
 
