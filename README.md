@@ -47,6 +47,8 @@ https://github.com/Az0x7/vulnerability-Checklist
 
 https://github.com/0xrajneesh/Ethical-Hacking-Projects-for-beginners
 
+https://github.com/0xrajneesh/Incident-Response-Projects-for-Beginners
+
 # Cheatsheets
 https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
 
