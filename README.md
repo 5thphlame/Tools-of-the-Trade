@@ -49,6 +49,8 @@ https://github.com/0xrajneesh/Ethical-Hacking-Projects-for-beginners
 
 https://github.com/0xrajneesh/Incident-Response-Projects-for-Beginners
 
+https://github.com/0xrajneesh/Web-Pentesting-Projects-For-Beginners
+
 # Cheatsheets
 https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
 
