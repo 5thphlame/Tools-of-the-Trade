@@ -8,6 +8,8 @@ https://github.com/skahwah/SQLRecon
 
 https://github.com/1N3/Sn1per
 
+https://github.com/RedSiege/EyeWitness
+
 https://github.com/xaitax/SploitScan
 
 https://github.com/ANG13T/skytrack
