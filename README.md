@@ -113,6 +113,7 @@ https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS
 # Mobile
 https://github.com/Cy-clon3/awesome-ios-security
 
-
+# Exam Prep
+https://github.com/CyberSecurityUP/OSCE3-Complete-Guide
 
 ## NB The repo keeps getting updated 
