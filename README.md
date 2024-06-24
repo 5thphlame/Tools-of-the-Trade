@@ -53,6 +53,8 @@ https://github.com/0xrajneesh/Incident-Response-Projects-for-Beginners
 
 https://github.com/0xrajneesh/Web-Pentesting-Projects-For-Beginners
 
+https://github.com/hafiz-ng/beetlebug (Android Hacking)
+
 # Cheatsheets
 https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
 
