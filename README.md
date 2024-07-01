@@ -18,6 +18,8 @@ https://github.com/ANG13T/skytrack
 
 https://github.com/XiaoliChan/wmiexec-Pro
 
+https://github.com/brightio/penelope (Reverse Shell tool)
+
 # Post Exploitation
 
 https://github.com/outflanknl/RedELK (Red Team SIEM)
