@@ -20,6 +20,8 @@ https://github.com/XiaoliChan/wmiexec-Pro
 
 https://github.com/brightio/penelope (Reverse Shell tool)
 
+https://github.com/osamaavvan/NTLM-Stealer-PDF/tree/main (NTLM Stealer pdf version)
+
 # Post Exploitation
 
 https://github.com/outflanknl/RedELK (Red Team SIEM)
