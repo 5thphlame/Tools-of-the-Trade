@@ -41,6 +41,8 @@ https://github.com/projectdiscovery/subfinder
 
 https://github.com/netsecurity-as/subfuz
 
+https://github.com/blackhatethicalhacking/DDoSlayer.git (Denial Of Service Tool)
+
 # Resources
 
 https://evotec.pl/the-only-powershell-command-you-will-ever-need-to-find-out-who-did-what-in-active-directory/
