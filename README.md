@@ -36,6 +36,10 @@ https://github.com/LasCC/HackTools
 
 https://github.com/Pennyw0rth/NetExec
 
+# Active Directory Enumeration
+
+https://github.com/PlumHound/PlumHound.git
+
 # Bug Bounty
 https://github.com/search?q=nuclei&type=repositories
 
