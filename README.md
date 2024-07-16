@@ -14,6 +14,8 @@ https://github.com/xaitax/SploitScan
 
 https://github.com/ANG13T/skytrack
 
+https://github.com/Lissy93/web-check (https://web-check.xyz/) WEB OSINT
+
 # Exploitation
 
 https://github.com/XiaoliChan/wmiexec-Pro
