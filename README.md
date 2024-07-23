@@ -130,4 +130,6 @@ https://github.com/Cy-clon3/awesome-ios-security
 # Exam Prep
 https://github.com/CyberSecurityUP/OSCE3-Complete-Guide
 
+https://github.com/CyberSecurityUP/Red-Team-Exercises
+
 ## NB The repo keeps getting updated 
