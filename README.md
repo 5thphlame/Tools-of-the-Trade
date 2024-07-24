@@ -32,6 +32,10 @@ https://github.com/nicocha30/ligolo-ng (Tunnelling)
 
 https://github.com/LasCC/HackTools
 
+# Password Bruteforce Tool
+
+https://github.com/dievus/BlackLister
+
 # Active Directory
 
 https://github.com/Pennyw0rth/NetExec
