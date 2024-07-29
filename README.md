@@ -2,6 +2,10 @@
 ## Arsenal
 ### You find link to tools you need here 
 
+# SOC
+
+https://github.com/tguard-soc-package/nusantara (SOC in One)
+
 # Recon
 
 https://github.com/skahwah/SQLRecon
