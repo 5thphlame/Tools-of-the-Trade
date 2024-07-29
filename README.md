@@ -16,6 +16,10 @@ https://github.com/ANG13T/skytrack
 
 https://github.com/Lissy93/web-check (https://web-check.xyz/) WEB OSINT
 
+# Scanning
+
+https://github.com/arminc/clair-scanner (Docker Vulnerability Scanner)
+
 # Exploitation
 
 https://github.com/XiaoliChan/wmiexec-Pro
