@@ -47,7 +47,9 @@ https://github.com/dievus/BlackLister
 # Active Directory
 
 https://github.com/Pennyw0rth/NetExec
+
 https://github.com/ropnop/kerbrute.git (AD Bruteforce)
+
 https://github.com/GhostPack/Seatbelt (Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.)
 
 # Active Directory Enumeration
