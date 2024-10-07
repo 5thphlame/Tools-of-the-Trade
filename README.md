@@ -73,6 +73,10 @@ https://github.com/Stuub/Helios (XSS Scan Tool)
 
 https://github.com/mandatoryprogrammer/xsshunter-express (Blind XSS)
 
+# CheckLists
+
+https://github.com/CyberSecurityUP/Offensivesecurity-Checklists
+
 # Resources
 
 https://evotec.pl/the-only-powershell-command-you-will-ever-need-to-find-out-who-did-what-in-active-directory/
