@@ -24,6 +24,8 @@ https://github.com/ANG13T/skytrack
 
 https://github.com/Lissy93/web-check (https://web-check.xyz/) WEB OSINT
 
+https://github.com/neonprimetime/PhishingKitTracker/blob/master/2020-05_PhishingKitTracker.csv (Phishing)
+
 # Scanning
 
 https://github.com/arminc/clair-scanner (Docker Vulnerability Scanner)
