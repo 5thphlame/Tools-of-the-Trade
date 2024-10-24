@@ -12,6 +12,8 @@ https://github.com/tguard-soc-package/nusantara (SOC in One)
 
 # Recon
 
+https://github.com/jasonxtn/argus (Reccommened)
+
 https://github.com/skahwah/SQLRecon
 
 https://github.com/1N3/Sn1per
