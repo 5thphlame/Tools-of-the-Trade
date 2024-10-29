@@ -28,6 +28,8 @@ https://github.com/Lissy93/web-check (https://web-check.xyz/) WEB OSINT
 
 https://github.com/neonprimetime/PhishingKitTracker/blob/master/2020-05_PhishingKitTracker.csv (Phishing)
 
+https://github.com/htr-tech/zphisher (Phishing) Reccomended 
+
 # Scanning
 
 https://github.com/arminc/clair-scanner (Docker Vulnerability Scanner)
