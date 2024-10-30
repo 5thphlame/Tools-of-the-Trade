@@ -28,7 +28,7 @@ https://github.com/Lissy93/web-check (https://web-check.xyz/) WEB OSINT
 
 https://github.com/neonprimetime/PhishingKitTracker/blob/master/2020-05_PhishingKitTracker.csv (Phishing)
 
-https://github.com/htr-tech/zphisher (Phishing) Reccomended 
+https://github.com/htr-tech/zphisher (Phishing) Recommended 
 
 # Scanning
 
@@ -65,6 +65,8 @@ https://github.com/GhostPack/Seatbelt (Seatbelt is a C# project that performs a 
 # Active Directory Enumeration
 
 https://github.com/PlumHound/PlumHound.git
+
+https://github.com/SnaffCon/Snaffler?tab=readme-ov-file
 
 # Bug Bounty
 https://github.com/search?q=nuclei&type=repositories
