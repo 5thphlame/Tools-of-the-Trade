@@ -114,7 +114,7 @@ https://guide.offsecnewbie.com/
 
 https://gist.github.com/kkirsche/75a8b48e58f80223f4a73c18739446dd
 
-https://github.com/swisskyrepo/PayloadsAllTheThings
+https://github.com/swisskyrepo/PayloadsAllTheThings (Payloads)
 
 https://room362.com/post/2011/2011-05-16-dumping-hashes-on-win2k8-r2-x64-with-metasploit/
 
