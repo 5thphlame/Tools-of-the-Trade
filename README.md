@@ -95,6 +95,8 @@ https://github.com/reswob10/HomeLabResources
 
 https://github.com/Az0x7/vulnerability-Checklist
 
+https://github.com/Tylous/FaceDancer?tab=readme-ov-file#how-to-use
+
 https://github.com/0xrajneesh/Ethical-Hacking-Projects-for-beginners
 
 https://github.com/0xrajneesh/Incident-Response-Projects-for-Beginners
@@ -165,11 +167,14 @@ https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS
 # Mobile
 https://github.com/Cy-clon3/awesome-ios-security
 
+https://danaepp.com/hacking-modern-android-apps-with-burpsuite (Mobile App Pentest)
+
 # Exam Prep
 https://github.com/CyberSecurityUP/OSCE3-Complete-Guide
 
 https://github.com/CyberSecurityUP/Red-Team-Exercises
 
+https://t.co/b9Gds7MTx4 (OSCP)
 
 
 ## NB The repo keeps getting updated 
