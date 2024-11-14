@@ -6,6 +6,8 @@
 
 https://github.com/CyberSecurityUP/information-security-relatory(Cybersecurity-Documentations)
 
+https://github.com/mttaggart/shell-setup
+
 # SOC
 
 https://github.com/tguard-soc-package/nusantara (SOC in One)
