@@ -166,10 +166,18 @@ https://github.com/netsecurity-as/subfuz/blob/master/subdomain_megalist.txt
 
 https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS
 
+https://github.com/TCM-Security/pnpt-wordlists
+
 # Mobile
 https://github.com/Cy-clon3/awesome-ios-security
 
 https://danaepp.com/hacking-modern-android-apps-with-burpsuite (Mobile App Pentest)
+
+# Cloud Projects
+
+github.com/RyanJarv/awesome-cloud-sec
+
+https://github.com/iknowjason/Awesome-CloudSec-Labs
 
 # Exam Prep
 https://github.com/CyberSecurityUP/OSCE3-Complete-Guide
