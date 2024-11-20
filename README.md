@@ -179,6 +179,8 @@ github.com/RyanJarv/awesome-cloud-sec
 
 https://github.com/iknowjason/Awesome-CloudSec-Labs
 
+https://github.com/RedTeamOperations/RedCloud-OS
+
 # Exam Prep
 https://github.com/CyberSecurityUP/OSCE3-Complete-Guide
 
