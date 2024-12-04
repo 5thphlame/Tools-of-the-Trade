@@ -8,6 +8,8 @@ https://github.com/CyberSecurityUP/information-security-relatory(Cybersecurity-D
 
 https://github.com/mttaggart/shell-setup
 
+https://start.me/p/AD57Rr/dfir-jedi
+
 # SOC
 
 https://github.com/tguard-soc-package/nusantara (SOC in One)
