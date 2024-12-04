@@ -16,6 +16,8 @@ https://www.joesandbox.com/ (Sandbox)
 
 https://any.run/ (Sandbox)
 
+https://www.virustotal.com/
+
 # Recon
 
 https://github.com/jasonxtn/argus (Reccommened)
