@@ -30,7 +30,9 @@ https://github.com/Lissy93/web-check (https://web-check.xyz/) WEB OSINT
 
 https://github.com/neonprimetime/PhishingKitTracker/blob/master/2020-05_PhishingKitTracker.csv (Phishing)
 
-https://github.com/htr-tech/zphisher (Phishing) Recommended 
+https://github.com/htr-tech/zphisher (Phishing) 
+
+https://github.com/gophish/gophish/releases (Phishing Recommended) Install in a VPS you can use Digital Ocean
 
 # Scanning
 
