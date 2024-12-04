@@ -12,6 +12,10 @@ https://github.com/mttaggart/shell-setup
 
 https://github.com/tguard-soc-package/nusantara (SOC in One)
 
+https://www.joesandbox.com/ (Sandbox)
+
+https://any.run/ (Sandbox)
+
 # Recon
 
 https://github.com/jasonxtn/argus (Reccommened)
