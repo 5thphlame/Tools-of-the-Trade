@@ -22,6 +22,10 @@ https://www.virustotal.com/
 
 # Recon
 
+https://en.fofa.info/
+
+https://www.shodan.io/
+
 https://github.com/jasonxtn/argus (Reccommened)
 
 https://github.com/skahwah/SQLRecon
