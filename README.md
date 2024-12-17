@@ -22,6 +22,8 @@ https://www.virustotal.com/
 
 # Recon
 
+https://github.com/rohitcoder/hawk-eye [HAWK Eye - Uncover Secrets and PII Across All Platforms in Minutes!]
+
 https://en.fofa.info/
 
 https://www.shodan.io/
