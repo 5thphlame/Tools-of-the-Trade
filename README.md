@@ -54,6 +54,8 @@ https://github.com/gophish/gophish/releases (Phishing Recommended) Install in a 
 
 https://github.com/arminc/clair-scanner (Docker Vulnerability Scanner)
 
+https://github.com/Cybersecurity-Ethical-Hacker/xssdynagen
+
 # Exploitation
 
 https://github.com/XiaoliChan/wmiexec-Pro
