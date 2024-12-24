@@ -204,6 +204,9 @@ https://github.com/RedTeamOperations/RedCloud-OS
 # Exam Prep
 https://github.com/CyberSecurityUP/OSCE3-Complete-Guide
 
+https://github.com/CyberSecurityUP/Red-Team-Exercises
+
+https://t.co/b9Gds7MTx4 (OSCP)
 
 # 𝐑𝐞𝐝 𝐓𝐞𝐚𝐦 𝐓𝐨𝐨𝐥𝐬 
 
@@ -281,9 +284,6 @@ https://github.com/CyberSecurityUP/OSCE3-Complete-Guide
 - DNSExfiltrator ==> https://lnkd.in/epJ-s6gp
 - Egress-Assess ==> https://lnkd.in/eXGFPQRJ
 
-https://github.com/CyberSecurityUP/Red-Team-Exercises
-
-https://t.co/b9Gds7MTx4 (OSCP)
 
 
 ## NB The repo keeps getting updated 
