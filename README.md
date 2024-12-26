@@ -26,6 +26,8 @@ https://github.com/rohitcoder/hawk-eye [HAWK Eye - Uncover Secrets and PII Acros
 
 https://app.netlas.io/
 
+https://github.com/CyberSecurityUP/Digital-Footprint-Checklist/blob/main/checklist-english-version.md (Digital Footprint)
+
 https://en.fofa.info/
 
 https://www.shodan.io/
