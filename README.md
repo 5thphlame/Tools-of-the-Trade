@@ -36,6 +36,8 @@ https://www.shodan.io/
 
 https://github.com/jasonxtn/argus (Reccommened)
 
+https://github.com/loxy0dev/RedTiger-Tools (New Tool)
+
 https://github.com/skahwah/SQLRecon
 
 https://github.com/1N3/Sn1per
