@@ -109,6 +109,8 @@ https://github.com/Stuub/Helios (XSS Scan Tool)
 
 https://github.com/mandatoryprogrammer/xsshunter-express (Blind XSS)
 
+https://github.com/blacklanternsecurity/bbot(Recommended subdomain finder)
+
 # CheckLists
 
 https://github.com/CyberSecurityUP/Offensivesecurity-Checklists
