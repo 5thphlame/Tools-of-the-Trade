@@ -111,6 +111,8 @@ https://github.com/mandatoryprogrammer/xsshunter-express (Blind XSS)
 
 https://github.com/blacklanternsecurity/bbot(Recommended subdomain finder)
 
+https://github.com/projectdiscovery/httpx
+
 # CheckLists
 
 https://github.com/CyberSecurityUP/Offensivesecurity-Checklists
