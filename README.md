@@ -96,6 +96,8 @@ https://github.com/PlumHound/PlumHound.git
 
 https://github.com/SnaffCon/Snaffler?tab=readme-ov-file
 
+https://github.com/daniellowrie/ActiveDirectory-Pentest-Resources/blob/main/README.md
+
 # Bug Bounty
 https://github.com/search?q=nuclei&type=repositories
 
