@@ -84,6 +84,8 @@ https://github.com/dievus/BlackLister
 
 # Active Directory
 
+https://github.com/swisskyrepo/InternalAllTheThings/tree/main/docs/active-directory
+
 https://github.com/Pennyw0rth/NetExec
 
 https://github.com/ropnop/kerbrute.git (AD Bruteforce)
