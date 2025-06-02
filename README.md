@@ -224,6 +224,8 @@ https://github.com/CyberSecurityUP/Red-Team-Exercises
 
 https://t.co/b9Gds7MTx4 (OSCP)
 
+https://github.com/zagnox/CPTS-cheatsheet
+
 # 𝐑𝐞𝐝 𝐓𝐞𝐚𝐦 𝐓𝐨𝐨𝐥𝐬 
 
 🔴 RECONNAISSANCE:
