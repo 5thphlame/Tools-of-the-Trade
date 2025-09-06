@@ -194,6 +194,8 @@ https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet/blob/master/README.md
 
 https://github.com/uppusaikiran/awesome-ctf-cheatsheet#awesome-ctf-cheatsheet-
 
+https://github.com/InfoSecWarrior/Offensive-Pentesting-Web/tree/main
+
 # Cybersecurity RoadMap Suggestion
 https://github.com/brcyrr/CyberSecurityRoadmapSuggestions
 
