@@ -206,6 +206,9 @@ https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS
 
 https://github.com/TCM-Security/pnpt-wordlists
 
+# Web Application
+https://github.com/vladko312/SSTImap
+
 # Mobile
 https://github.com/Cy-clon3/awesome-ios-security
 
