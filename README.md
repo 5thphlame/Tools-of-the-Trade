@@ -10,6 +10,8 @@ https://github.com/mttaggart/shell-setup
 
 https://start.me/p/AD57Rr/dfir-jedi
 
+https://github.com/CyberSecurityUP/RTOps-Management-Platform
+
 # SOC
 
 https://github.com/tguard-soc-package/nusantara (SOC in One)
