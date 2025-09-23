@@ -119,6 +119,8 @@ https://github.com/blacklanternsecurity/bbot(Recommended subdomain finder)
 
 https://github.com/projectdiscovery/httpx
 
+https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
+
 # CheckLists
 
 https://github.com/CyberSecurityUP/Offensivesecurity-Checklists
