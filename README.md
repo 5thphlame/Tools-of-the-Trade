@@ -58,6 +58,10 @@ https://github.com/htr-tech/zphisher (Phishing)
 
 https://github.com/gophish/gophish/releases (Phishing Recommended) Install in a VPS you can use Digital Ocean
 
+https://github.com/urbanadventurer/username-anarchy
+
+https://github.com/ropnop/kerbrute
+
 # Scanning
 
 https://github.com/arminc/clair-scanner (Docker Vulnerability Scanner)
