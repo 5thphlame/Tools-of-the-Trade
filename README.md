@@ -76,6 +76,8 @@ https://github.com/brightio/penelope (Reverse Shell tool)
 
 https://github.com/osamaavvan/NTLM-Stealer-PDF/tree/main (NTLM Stealer pdf version)
 
+https://0day-archive.fullhunt.io/
+
 # Post Exploitation
 
 https://github.com/outflanknl/RedELK (Red Team SIEM)
