@@ -216,6 +216,7 @@ https://github.com/TCM-Security/pnpt-wordlists
 
 # Web Application
 https://github.com/vladko312/SSTImap
+https://github.com/errorfiathck/IDOR-Forge
 
 # Mobile
 https://github.com/Cy-clon3/awesome-ios-security
