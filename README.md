@@ -115,6 +115,8 @@ https://github.com/projectdiscovery/subfinder
 
 https://github.com/netsecurity-as/subfuz
 
+https://github.com/faizann24/rogue
+
 https://github.com/blackhatethicalhacking/DDoSlayer.git (Denial Of Service Tool)
 
 https://github.com/Stuub/Helios (XSS Scan Tool)
