@@ -321,6 +321,7 @@ https://github.com/zagnox/CPTS-cheatsheet
 - DNSExfiltrator ==> https://lnkd.in/epJ-s6gp
 - Egress-Assess ==> https://lnkd.in/eXGFPQRJ
 
-
+# OPSEC
+- https://github.com/wafcontrol/wafcontrol/
 
 ## NB The repo keeps getting updated 
