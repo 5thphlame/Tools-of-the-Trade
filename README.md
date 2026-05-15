@@ -104,6 +104,8 @@ https://github.com/GhostPack/Seatbelt (Seatbelt is a C# project that performs a 
 
 https://github.com/PlumHound/PlumHound.git
 
+https://github.com/Greenwolf/ntlm_theft
+
 https://github.com/SnaffCon/Snaffler?tab=readme-ov-file
 
 https://github.com/daniellowrie/ActiveDirectory-Pentest-Resources/blob/main/README.md
