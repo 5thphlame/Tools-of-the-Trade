@@ -100,6 +100,8 @@ https://github.com/ropnop/kerbrute.git (AD Bruteforce)
 
 https://github.com/GhostPack/Seatbelt (Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.)
 
+https://github.com/NukingDragons/SharpGPOAbuse.git
+
 # Active Directory Enumeration
 
 https://github.com/PlumHound/PlumHound.git
