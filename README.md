@@ -327,5 +327,6 @@ https://github.com/zagnox/CPTS-cheatsheet
 
 # OPSEC
 - https://github.com/wafcontrol/wafcontrol/
+- https://github.com/dougburks/so-crates
 
 ## NB The repo keeps getting updated 
